@@ -13,17 +13,7 @@ Simply download, or copy and paste, the files into the same folder and open the 
 
 ## Usage
 
-NA
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+Self explanatory
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
